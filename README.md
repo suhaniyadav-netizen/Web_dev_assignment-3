@@ -19,9 +19,10 @@ This is an update to Assignment 1 & 2 - Portfolio Project
 - Fully responsive layout (HTML + CSS only)
 
 ## Details
-- Prabhat Bhatia
-- 2501410006
+- Suhani Yadav
+- 2501410032
 - B.Tech CSE Cyber Security(First Semester)
-- 22 November 2025
+- 25 November 2025
 - Web Development - Lab Assignment(3)
+
 

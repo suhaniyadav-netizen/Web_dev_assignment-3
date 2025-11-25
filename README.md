@@ -3,7 +3,7 @@
 This is an update to Assignment 1 & 2 - Portfolio Project
 
 # Assignment 3
-<img width="1191" height="1460" alt="image" src="https://github.com/user-attachments/assets/e8ec7405-9904-49b5-92db-c902977b7032" />
+<img width="1755" height="1870" alt="image" src="https://github.com/user-attachments/assets/3f9d4e7a-ddad-4f94-9123-d1f6c0a813ee" />
 
 
 ## What’s Inside
@@ -24,3 +24,4 @@ This is an update to Assignment 1 & 2 - Portfolio Project
 - B.Tech CSE Cyber Security(First Semester)
 - 22 November 2025
 - Web Development - Lab Assignment(3)
+
